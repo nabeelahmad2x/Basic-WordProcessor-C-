@@ -1,0 +1,6 @@
+File Name: sample2.txt
+File Data: This is start of line.Sample 2 is created in documents folder,in final project. 
+Total Characters: 63
+Total Words: 16
+Total Sentences: 2
+Total Punctations: 3

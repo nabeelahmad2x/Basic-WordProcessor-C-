@@ -1,0 +1,1 @@
+this is a sample word created for testing OOP concepts.This ends here.
